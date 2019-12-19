@@ -1,0 +1,418 @@
+cardname: Advance
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_186.jpg
+cardname: Advanced Ultron Drone
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_143.jpg
+cardname: Affairs of State
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_155.jpg
+cardname: Alpha Flight Station
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_15.jpg
+cardname: Ancestral Knowledge
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_42.jpg
+cardname: Android Efficiency
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_144A.jpg
+cardname: Android Efficiency
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_144B.jpg
+cardname: Android Efficiency
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_144C.jpg
+cardname: Arc Reactor
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_35.jpg
+cardname: Armored Guard
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_120.jpg
+cardname: Armored Rhino Suit
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_98.jpg
+cardname: Armored Vest
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_81.jpg
+cardname: Assault
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_187.jpg
+cardname: Assault on NORAD (2A)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_138A.jpg
+cardname: Assault on NORAD (2B)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_138B.jpg
+cardname: Aunt May
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_6.jpg
+cardname: Avengers Mansion
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_91.jpg
+cardname: “I’m Tough!”
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_105.jpg
+cardname: Backflip
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_3.jpg
+cardname: Biomechanical Upgrades
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_185.jpg
+cardname: Black Cat
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_2.jpg
+cardname: Black Panther
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_40A.jpg
+cardname: Black Widow
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_75.jpg
+cardname: Bomb Scare
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_109.jpg
+cardname: Breakin’ & Takin’
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_107.jpg
+cardname: Business Problems
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_170.jpg
+cardname: Captain Marvel
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_10A.jpg
+cardname: Captain Marvel’s Helmet
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_16.jpg
+cardname: Carol Danvers
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_10B.jpg
+cardname: Caught Off Guard
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_188.jpg
+cardname: Charge
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_99.jpg
+cardname: Chase Them Down
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_52.jpg
+cardname: Combat Training
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_57.jpg
+cardname: Concussion Blasters
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_153.jpg
+cardname: Concussive Blast
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_154.jpg
+cardname: Cosmic Flight
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_17.jpg
+cardname: Countdown to Oblivion (3A)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_139A.jpg
+cardname: Countdown to Oblivion (3B)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_139B.jpg
+cardname: Counter-punch
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_77.jpg
+cardname: Crisis Interdiction
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_12.jpg
+cardname: Crowd Control
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_108.jpg
+cardname: Daredevil
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_58.jpg
+cardname: Defense Network
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_125.jpg
+cardname: Drone Factory
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_148.jpg
+cardname: Electric Whip Attack
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_173.jpg
+cardname: Electromagnetic Backlash
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_174.jpg
+cardname: Emergency
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_85.jpg
+cardname: Energy
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_88.jpg
+cardname: Energy Absorption
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_14.jpg
+cardname: Energy Channel
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_18.jpg
+cardname: Energy Daggers
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_46.jpg
+cardname: Enhanced Ivory Horn
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_100.jpg
+cardname: Enhanced Spider-Sense
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_4.jpg
+cardname: Eviction Notice
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_165.jpg
+cardname: Exhaustion
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_191.jpg
+cardname: Explosion
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_111.jpg
+cardname: False Alarm
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_112.jpg
+cardname: Family Emergency
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_175.jpg
+cardname: First Aid
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_86.jpg
+cardname: Focused Rage
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_27.jpg
+cardname: For Justice!
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_60.jpg
+cardname: Gamma Slam
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_21.jpg
+cardname: Gang-Up
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_189.jpg
+cardname: Genetically Enhanced
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_163.jpg
+cardname: Genius
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_89.jpg
+cardname: Get Behind Me!
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_78.jpg
+cardname: Get Ready
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_69.jpg
+cardname: Great Responsibility
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_61.jpg
+cardname: Ground Stomp
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_22.jpg
+cardname: Hard to Keep Down
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_104.jpg
+cardname: Hawkeye
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_66.jpg
+cardname: Haymaker
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_87.jpg
+cardname: Heart-Shaped Herb
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_158.jpg
+cardname: Helicarrier
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_92.jpg
+cardname: Hellcat
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_20.jpg
+cardname: Heroic Intuition
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_65.jpg
+cardname: Highway Robbery
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_166.jpg
+cardname: Hulk
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_50.jpg
+cardname: Hydra Bomber
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_110.jpg
+cardname: Hydra Mercenary
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_101.jpg
+cardname: Hydra Soldier
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_182.jpg
+cardname: Illegal Arms Factory
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_126.jpg
+cardname: Imminent Overload
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_171.jpg
+cardname: Indomitable
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_82.jpg
+cardname: Inspired
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_74.jpg
+cardname: Interrogation Room
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_63.jpg
+cardname: Invasive AI
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_149.jpg
+cardname: Iron Man
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_29A.jpg
+cardname: Jennifer Walters
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_19B.jpg
+cardname: Jessica Jones
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_59.jpg
+cardname: Killmonger
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_157.jpg
+cardname: Klaw (I)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_113.jpg
+cardname: Klaw (II)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_114.jpg
+cardname: Klaw (III)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_115.jpg
+cardname: Klaw’s Vengeance
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_122.jpg
+cardname: Kree Manipulator
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_178.jpg
+cardname: Lead from the Front
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_70.jpg
+cardname: Legal Practice
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_23.jpg
+cardname: Legal Work
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_160.jpg
+cardname: Luke Cage
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_76.jpg
+cardname: Madame Hydra
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_181.jpg
+cardname: Make the Call
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_71.jpg
+cardname: Maria Hill
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_67.jpg
+cardname: Mark V Armor
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_36.jpg
+cardname: Mark V Helmet
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_37.jpg
+cardname: Masterplan
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_192.jpg
+cardname: Masters of Mayhem
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_133.jpg
+cardname: Med Team
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_80.jpg
+cardname: Melter
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_132.jpg
+cardname: Mockingbird
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_83.jpg
+cardname: MODOK
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_184.jpg
+cardname: Nick Fury
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_84.jpg
+cardname: One-Two Punch
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_24.jpg
+cardname: Panther Claws
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_47.jpg
+cardname: Pepper Potts
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_33.jpg
+cardname: Personal Challenge
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_161.jpg
+cardname: Peter Parker
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_1B.jpg
+cardname: Photonic Blast
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_13.jpg
+cardname: Powered Gauntlets
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_38.jpg
+cardname: Program Transmitter
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_141.jpg
+cardname: Radioactive Man
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_129.jpg
+cardname: Rage of Ultron
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_145.jpg
+cardname: Relentless Assault
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_53.jpg
+cardname: Repair Sequence
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_146.jpg
+cardname: Repulsor Blast
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_31.jpg
+cardname: Rhino (I)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_94.jpg
+cardname: Rhino (II)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_95.jpg
+cardname: Rhino (III)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_96.jpg
+cardname: Ritual Combat
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_159.jpg
+cardname: Rocket Boots
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_39.jpg
+cardname: Sandman
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_102.jpg
+cardname: Secret Rendezvous (2A)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_117A.jpg
+cardname: Secret Rendezvous (2B)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_117B.jpg
+cardname: Shadow of the Past
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_190.jpg
+cardname: She-Hulk
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_19A.jpg
+cardname: Shocker
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_103.jpg
+cardname: Shuri
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_41.jpg
+cardname: Solid-Sound Body
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_119.jpg
+cardname: Sonic Boom
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_123.jpg
+cardname: Sonic Converter
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_118.jpg
+cardname: Sound Manipulation
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_124.jpg
+cardname: Spider-Man
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_1A.jpg
+cardname: Spider-tracer
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_7.jpg
+cardname: Spider-Woman
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_11.jpg
+cardname: Split Personality
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_25.jpg
+cardname: Stampede
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_106.jpg
+cardname: Stark Tower
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_34.jpg
+cardname: Strength
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_90.jpg
+cardname: Superhuman Law Division
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_26.jpg
+cardname: Superhuman Strength
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_28.jpg
+cardname: Supersonic Punch
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_32.jpg
+cardname: Surveillance Team
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_64.jpg
+cardname: Swarm Attack
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_147.jpg
+cardname: Sweeping Swoop
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_168.jpg
+cardname: Swinging Web Kick
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_5.jpg
+cardname: Tac Team
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_56.jpg
+cardname: Tactical Genius
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_48.jpg
+cardname: T’Challa
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_40B.jpg
+cardname: Tenacity
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_93.jpg
+cardname: The “Immortal” Klaw
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_127.jpg
+cardname: The Break-In! (1A)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_97A.jpg
+cardname: The Break-In! (1B)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_97B.jpg
+cardname: The Crimson Cowl (1A)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_137A.jpg
+cardname: The Crimson Cowl (1B)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_137B.jpg
+cardname: The Doomsday Chair
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_183.jpg
+cardname: The Golden City
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_45.jpg
+cardname: The Legions of Hydra
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_180.jpg
+cardname: The Masters of Evil
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_128.jpg
+cardname: The Power of Aggression
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_55.jpg
+cardname: The Power of Justice
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_62.jpg
+cardname: The Power of Leadership
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_72.jpg
+cardname: The Power of Protection
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_79.jpg
+cardname: The Psyche-Magnitron
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_176.jpg
+cardname: The Triskelion
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_73.jpg
+cardname: The Vulture’s Plans
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_169.jpg
+cardname: Tiger Shark
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_131.jpg
+cardname: Tigra
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_51.jpg
+cardname: Titania
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_162.jpg
+cardname: Titania’s Fury
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_164.jpg
+cardname: Tony Stark
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_29B.jpg
+cardname: Ultron (I)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_134.jpg
+cardname: Ultron (II)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_135.jpg
+cardname: Ultron (III)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_136.jpg
+cardname: Ultron Drones
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_140.jpg
+cardname: Ultron’s Imperative
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_150.jpg
+cardname: Under Attack
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_151.jpg
+cardname: Under Fire
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_193.jpg
+cardname: Underground Distribution (1A)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_116A.jpg
+cardname: Underground Distribution (1B)
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_116B.jpg
+cardname: Upgraded Drones
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_142.jpg
+cardname: Uppercut
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_54.jpg
+cardname: Usurp the Throne
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_156.jpg
+cardname: Vibranium
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_44.jpg
+cardname: Vibranium Armor
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_152.jpg
+cardname: Vibranium Suit
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_49.jpg
+cardname: Vision
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_68.jpg
+cardname: Vulture
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_167.jpg
+cardname: Wakanda Forever!
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_43A.jpg
+cardname: Wakanda Forever!
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_43B.jpg
+cardname: Wakanda Forever!
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_43C.jpg
+cardname: Wakanda Forever!
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_43D.jpg
+cardname: War Machine
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_30.jpg
+cardname: Weapons Runner
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_121.jpg
+cardname: Web-Shooter
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_8.jpg
+cardname: Webbed Up
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_9.jpg
+cardname: Whiplash
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_172.jpg
+cardname: Whirlwind
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_130.jpg
+cardname: Yon-Rogg
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_177.jpg
+cardname: Yon-Rogg’s Treason
+image: https://lcgcdn.s3.amazonaws.com/mc/MC01en_179.jpg
